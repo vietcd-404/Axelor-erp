@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/modules" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-account" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-admin" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-bank-payment" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-base" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-bpm" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-business-production" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-business-project" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-business-support" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-cash-management" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-client-portal" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-contract" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-crm" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-exception" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-fleet" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-gdpr" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-helpdesk" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-human-resource" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-maintenance" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-marketing" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-message" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-mobile" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-production" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-project" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-project-dms" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-purchase" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-quality" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-sale" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-stock" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-studio" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-supplier-management" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-supplier-portal" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-supplychain" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-talent" />
+            <option value="$PROJECT_DIR$/modules/axelor-open-suite/axelor-tool" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
